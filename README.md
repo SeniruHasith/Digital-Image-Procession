@@ -10,3 +10,5 @@ The key features of this project include:
 4. Integration with a Flask web application for easy deployment and interaction
 
 This project can serve as a starting point for building medical image classification systems or can be adapted for other image-based classification tasks. Feel free to explore the code, provide feedback, or contribute to the ongoing development.
+
+To get the dataset and pre trained model feel free to gmail - seniruhasith@gmail.com
