@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 def binarize_and_label():
     # Load the image labeled as Q4.jpg
-    image_path = '../images/Q3.jpg'
+    image_path = '../images/Q4.jpg'
     image = cv2.imread(image_path)
 
     # Check if the image is loaded
